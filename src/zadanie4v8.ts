@@ -50,3 +50,4 @@ for (let i = 0; i < xValuesB.length; i++) {
         console.log(`x = ${x.toFixed(4)}\t y = ${val.toFixed(6)}`);
     }
 }
+export { y };
